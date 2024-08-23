@@ -3,7 +3,13 @@
 - minha cor favorita é preto
 - eu gosto de fazer academia
 - eu gosto de dormir 
-  (isso me representa pq gosto de comer igual esse ursinho){https://tenor.com/bLtpk.gif}
+  (isso me representa pq gosto de comer igual esse ursinho
+
+
+[Camila
+](https://tenor.com/vd8UaNanXCu.gif)
+
+  
 
 <!---
 camilaoliveiraa2/camilaoliveiraa2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
